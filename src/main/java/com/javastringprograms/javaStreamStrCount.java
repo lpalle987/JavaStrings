@@ -44,6 +44,7 @@ public class javaStreamStrCount {
         //oc.countOccurance("My name is Lavanya");
         //oc.oneLineStringCounter();
         oc.thirdTry();
+        System.out.println("Lavanya");
     }
 
     public void oneLineStringCounter() {
